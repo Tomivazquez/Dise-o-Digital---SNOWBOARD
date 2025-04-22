@@ -1,0 +1,21 @@
+header{
+    color: darkorange;
+    font-family:'Lucida Sans';
+}
+h6{
+    color: darkorange;
+}
+body{
+    background-color: lightyellow;
+    font-family: 'Lucida Sans';
+}
+h2{
+    color: darkorange;
+    margin-bottom: 35px;
+}
+h1{
+    margin-bottom: 35px;
+}
+p{
+    margin-bottom: 35px;
+}
